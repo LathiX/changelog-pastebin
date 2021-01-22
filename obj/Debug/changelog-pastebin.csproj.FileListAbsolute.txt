@@ -1,0 +1,10 @@
+C:\Users\MDJTheGamer\source\repos\changelog-pastebin\changelog-pastebin\bin\Debug\changelog-pastebin.exe.config
+C:\Users\MDJTheGamer\source\repos\changelog-pastebin\changelog-pastebin\bin\Debug\changelog-pastebin.exe
+C:\Users\MDJTheGamer\source\repos\changelog-pastebin\changelog-pastebin\bin\Debug\changelog-pastebin.pdb
+C:\Users\MDJTheGamer\source\repos\changelog-pastebin\changelog-pastebin\obj\Debug\changelog-pastebin.csprojAssemblyReference.cache
+C:\Users\MDJTheGamer\source\repos\changelog-pastebin\changelog-pastebin\obj\Debug\changelog_pastebin.Form1.resources
+C:\Users\MDJTheGamer\source\repos\changelog-pastebin\changelog-pastebin\obj\Debug\changelog_pastebin.Properties.Resources.resources
+C:\Users\MDJTheGamer\source\repos\changelog-pastebin\changelog-pastebin\obj\Debug\changelog-pastebin.csproj.GenerateResource.cache
+C:\Users\MDJTheGamer\source\repos\changelog-pastebin\changelog-pastebin\obj\Debug\changelog-pastebin.csproj.CoreCompileInputs.cache
+C:\Users\MDJTheGamer\source\repos\changelog-pastebin\changelog-pastebin\obj\Debug\changelog-pastebin.exe
+C:\Users\MDJTheGamer\source\repos\changelog-pastebin\changelog-pastebin\obj\Debug\changelog-pastebin.pdb
